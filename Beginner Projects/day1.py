@@ -11,6 +11,7 @@
 
 ##### BAND NAME GENERATOR....
 
+# New line
 print()
 # Create a greeting for your program.
 print("Welcome to the Band Name Generator...")
@@ -23,4 +24,6 @@ pet = input("What's your pet's name?\n")
 
 # Combine the city and pet name and show them their band name.
 print("Your band name could be "+ city + " " + pet)
+
+# New line
 print()
