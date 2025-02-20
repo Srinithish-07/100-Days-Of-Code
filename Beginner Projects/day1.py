@@ -24,7 +24,7 @@ pet = input("What's your pet's name?\n")
 
 # Combine the city and pet name and show them their band name.
 # using formated string for more readability
-print(f"Your band name could be {city}{pet}")
+print(f"Your band name could be {city}{pet}.")
 
 # New line
 print()
