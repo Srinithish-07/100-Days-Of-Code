@@ -26,6 +26,7 @@
     # In Python, the underscore (_) can be used as a digit separator in numeric literals to improve readability.
     # This feature was introduced in Python 3.6 (PEP 515). The underscores do not affect the value of the number
     # they are simply ignored by the compiler.
+
     # Therefore, 123,456,789 and 123_456_789 are treated as the same value by the Python compiler.
 
 
