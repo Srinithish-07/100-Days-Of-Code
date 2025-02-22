@@ -15,6 +15,7 @@
     # f - Strings --> is a way to embed expressions inside string literals, using curly braces {}
                     # types of formating strings
                     # f strings -> Format = f"Hello, my name is {name} and I am {age} years old."
+
                     # % operator -> Format = "Hello, my name is %s, and I am %d years old." % (name, age)
                     # format() -> Format = "Hello, my name is {} and I am {} years old.".format(name, age)  
 
