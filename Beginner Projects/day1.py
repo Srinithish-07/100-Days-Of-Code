@@ -1,4 +1,3 @@
-
 # DAY 1
 # Topics Learned
 
