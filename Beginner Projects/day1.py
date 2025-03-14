@@ -2,6 +2,7 @@
 # DAY 1
 # Topics Learned
 
+
     # print() function
     # input() function
     # variables
