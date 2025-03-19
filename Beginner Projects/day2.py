@@ -2,7 +2,6 @@
 
 
 
-
 # Topics Learned
 
     # Data Types ---> String -> "Hello" , Integer -> 717 , Float -> 3.141598 , Boolean -> True || False
