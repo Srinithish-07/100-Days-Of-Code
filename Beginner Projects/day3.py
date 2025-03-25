@@ -6,7 +6,6 @@
     # Logical Operators ---> and , or , not
     # Code Blocks and Scope
 
-
 # Leap Year Program...
 # year = int(input("Enter a year to check : "))
 # if year % 4 ==0:
